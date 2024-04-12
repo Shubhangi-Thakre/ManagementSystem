@@ -15,8 +15,6 @@ void accountcreated(void);
 void afterlogin(void);
 void logout(void);
 
-// Declaring gotoxy
-// function for setting
 // cursor position
 void gotoxy(int x, int y)
 {
